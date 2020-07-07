@@ -1,6 +1,6 @@
 variable "region" {
     type = string
-    description = "region of deplyment"
+    description = "region of deployment"
     default = "us-west-2"
 }
 
